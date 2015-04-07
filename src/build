@@ -1,0 +1,1 @@
+mcs lib/*.cs Main.cs -w:4 -debug+ -out:../lua

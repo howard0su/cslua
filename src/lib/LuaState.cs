@@ -1,7 +1,7 @@
 ﻿
 // #define ENABLE_DUMP_STACK
 
- #define DEBUG_RECORD_INS
+// #define DEBUG_RECORD_INS
 
 using System.Collections.Generic;
 
